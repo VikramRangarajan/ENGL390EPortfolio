@@ -23,7 +23,7 @@ html_theme_options = {
     "navbar_end": ["theme-switcher", "navbar-icon-links"],
     "github_url": github,
     "logo": {
-        "text": "Portfolio",
+        "text": "Introduction",
     },
     "icon_links": [
         {
