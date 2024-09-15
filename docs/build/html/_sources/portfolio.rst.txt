@@ -114,13 +114,3 @@ Awards & Certifications
 	:link: https://www.credly.com/badges/82aab031-8123-40de-b310-0c73394b5329/public_url
 
 .. card:: UMD Computer Science Semester Academic Honors - Fall 22 - Spring 24
-
-
-.. toctree::
-	:hidden:
-
-	publications
-.. toctree::
-	:hidden:
-
-	resumes

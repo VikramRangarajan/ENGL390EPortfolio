@@ -19,7 +19,6 @@ github = "https://github.com/VikramRangarajan"
 html_theme = "pydata_sphinx_theme"
 html_sidebars = {"**": []}
 html_theme_options = {
-    "navigation_with_keys": False,
     "navbar_end": ["theme-switcher", "navbar-icon-links"],
     "github_url": github,
     "logo": {
