@@ -54,6 +54,19 @@ Artifacts
 	which mimics PyTorch. I used my library to create a simple CNN, but it can also
 	be used to create very complex models.
 
+.. card:: Nematode Classification Project
+	:link: https://huggingface.co/spaces/VikramR/NematodeClassifier
+
+	This is a web app for a paper I authored (not published yet) about the classification of 7 kinds of nematodes, which
+	you can see in the publication tab.
+
+.. card:: Main Portfolio
+	:link: https://vikramrangarajan.github.io
+
+	This is my main portfolio (this one is separate because of the different requirements). For this, the website itself
+	and my resume (pdf and docx formats) are automatically generated from a JSON file to ensure perfect formatting and easy
+	expandability.
+
 .. toctree::
 	:hidden:
 
