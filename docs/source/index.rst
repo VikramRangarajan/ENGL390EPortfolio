@@ -10,7 +10,7 @@ I am a computer science major on the machine learning track, as well as a statis
 My current experiences are related to my interest in going to graduate school, such as my
 research experience.
 
-Statement of Purpose (Work in Progress)
+Statement of Purpose
 =======================================
 
 My interest in computer science is related to computer vision and deep learning. 
